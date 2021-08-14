@@ -1,0 +1,12 @@
+dl {
+    color: steelblue;
+    font-size: 20px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin: 20px 20px;
+}
